@@ -17,3 +17,6 @@ media/
 .DS_Store
 # node
 node_modules/
+
+
+utils.py
